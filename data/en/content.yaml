@@ -1,0 +1,158 @@
+BasicInfo:
+  FirstName: Raymond
+  LastName: Storer
+  Photo: img/avatar.jpg
+  Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 789
+    - Icon: fas fa-envelope
+      Info: <a class="contact__link" href="mailto:rwstorer@hotmail.com">rwstorer@hotmail.com </a>
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://www.rayramble.com" target="_blank">rayramble.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Indiana
+
+Profile: Senior technical team leader with strong experience in enterprise deployments of both hardware and software. Strong skills in automating repetitive tasks.
+
+Experience:
+  - Employer: University of Notre Dame
+    Place: Notre Dame, IN
+    Positions:
+      - Title: Active Directory Administrator
+        Date: Sep 2019 - Present
+        Details:
+          - Maintain a global Active Directory infrastructure with RADIUS (NPS) and enterprise certificate services
+          - Okta tenant administrator
+          - M365 / Azure AD tenant admin
+        Badges: ["Active Directory", "DHCP Server", "Network Policy Server (RADIUS)", "Certificate Services", "Active Directory Federation Services"]
+#      - Title: Software Tester
+#        Date: Mar 2019 - Jan 2020
+#        Details:
+#          - Nisl tincidunt eget nullam non nisi est
+#          - Sed viverra tellus in hac.
+#          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+  - Employer: Ivy Tech Community College
+    Place: South Bend, IN
+    Positions:
+      - Title: Adjunct Professor
+        Date: Jan 2020 - Present
+        Details:
+          - Teach courses in introductory programming logic, A+ prep, Python, and software project management using SDLC and Agile.
+          - SDEV 265, SDEV 220
+        Badges: ["Python", "teaching", "mentoring", "classroom management"]
+  - Employer: NIBCO, INC.
+    Place: Elkhart, IN
+#    Class: "experience__extra_padding"
+    Positions:
+      - Title: Senior Windows System Administrator
+        Date: Feb 2006 - Aug 2019
+        Details:
+          - Purchased fourteen servers and led a team of two other administrators in remotely replacing leased hardware and over forty virtual machines on-time and within budget
+          - Installed and deployed a VMware vShere 5.1 cluster with ten hosts and implemented VMware Site Recovery Manager. Upgraded them to vSphere 6.0 when it released. Upgraded VMware Site Recovery Manager and vCenter also
+          - Wrote PowerShell scripts for automating user account creation, server backup, and server alerting with interfaces to both MS SQL and SQLite
+          - Wrote C# web application that interfaced with Twilios' C# API and used an SQLite database for SMS technician alerts and acknowledgments
+          - Deployed Esker DeliveryWare (fax server) 4.0, 5.0, and 6.0. Wrote custom Vb.Net web application to interface with SAP's order processing BAPIs with Perl and C# applications to parse internal mail messages for the SAP sales order process—procesing over a million sales order lines and generating over $75K in annual sales
+          - Migrated from Microsoft Exchange Server 2010 to 2013 with clustering, and then migrated over 2,000 user and shared mailboxes to Exchange Online
+          - Primary Microsoft 365 Global Tenant Administrator for an Enterprise of over 2500 users. Created primary and secondary Domains; executed content searches and enabled litigation holds; created SharePoint sites and assigned permissions; created Teams and M365 groups
+          - Designed, configured, and deployed Active Directory Federation Services 3.0 in Azure using Azure Resource Groups, VMs, and kemp load balancers
+          - Built Intune policies for both mobile devices (MDM) and mobile applications (MAM)
+          - Primary Microsoft Volume License Services Administrator
+          - Administered System Center Configuration Manager and built application deployments
+          - Designed, configured, and deployed vendor and custom server and application monitors for metrics and alerting using PowerShell, C#, and Perl
+        Badges: ["PowerShell", "Windows Server", "Microsoft Exchange", "Active Directory", "VMware", "Esker Deliveryware", "C#"]
+  - Employer: United States Army
+    Place: Various
+    Positions:
+      - Title: Information Systems Analyst
+        Date: 1993 - 2006
+        Details:
+          - Administered Windows and UNIX servers. Wrote Ada and C interface routines. Trained soldiers.
+        Badges: ["Ada", "C", "training", "leading"]
+      - Title: M1 Armor Crewman
+        Date: 1984 - 1993
+        Details:
+          - Drove M1 tanks. Trained soldiers.
+        Badges: ["driving", "training", "leading"]
+
+Education:
+  - Course: Master of Science, Information Technology Management
+    Place: Western Governors University
+    Date: 2020
+#    Details: Information Technology Management
+  - Course: Bachelor of Science, Information Technology - Network Design and Management
+    Place: Western Governors University
+    Date: 2015
+#    Details: Network Design and Management
+
+#References:
+#  - Name: Person One
+#    Relation: Co-worker at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 790
+#    - Icon: fas fa-envelope
+#      Info: contact@person-one.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Melbourne, Australia
+#  - Name: Person Two
+#    Relation: Boss at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 791
+#    - Icon: fas fa-envelope
+#      Info: contact@person-two.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Sydney, Australia
+
+Skills:
+  - Family: Identity
+    Items:
+      - Active Directory
+      - Active Directory Federation Services
+      - Azure AD
+      - Okta
+  - Family: Windows Server
+    Items:
+      - Network Policy Server (RADIUS)
+      - DHCP
+      - DNS
+      - Certificate Services
+      - PowerShell
+  - Family: VMware
+    Items:
+      - vCenter Server
+      - ESXi
+      - Site Recovery Manager
+  - Family: Cloud
+    Items:
+      - M365
+      - Intune
+      - Exchange Online
+      - Azure
+      - AWS EC2
+
+#Languages:
+#  - Name: Portuguese
+#    Level: Native
+#  - Name: English
+#    Level: C2
+#  - Name: Spanish
+#    Level: B1
+#  - Name: German
+#    Level: B1
+
+Diplomas:
+  - Okta Certified Administrator
+  - CompTIA A+ Essentials
+  - CompTIA A+ IT Technician
+  - 70-742, Identity with Windows Server 2016
+  - CIW v5 FoundationsCIW
+  - CIW Web Design Specialist
+
+Interests:
+  - Computers
+  - Audio Books
+  - Cycling
+  - Woodworking
+  - Loom Knitting

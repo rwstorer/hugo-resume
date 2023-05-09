@@ -1,0 +1,29 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "Raymond W. Storer III - CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "white" # "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "grey" # "#e3bfb8"
+colorSecondary = "grey" #"#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "grey" # "#e3bfb8"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "grey" # "#e3bfb8"
+pages = 2
+# Set this param to 'true' to swap the bar positions
+swapColumns = true
