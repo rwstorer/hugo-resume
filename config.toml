@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
+baseURL = "https://rayramble.com/resume/"
 title = "Raymond W. Storer III - CV"
 #googleAnalytics = ""
 
